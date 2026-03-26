@@ -67,6 +67,8 @@ Run `uv sync` to setup the python environment. And set your LLM API credentials:
 
 ```bash
 # OpenAI or any other compatible services
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
 export AWM_SYN_LLM_PROVIDER="openai"
 export OPENAI_API_KEY="your-api-key"
 # optional, if you are using a custom base url
@@ -233,5 +235,3 @@ If you find this work useful, please kindly cite:
       url={https://arxiv.org/abs/2602.10090}, 
 }
 ```
-
-
